@@ -1,0 +1,9 @@
+{
+  "name": "tiny-AES-c",
+  "version": "v1.0.1",
+  "repo": "VincentSit/tiny-AES-c",
+  "description": "Small portable AES128/192/256 in C",
+  "license": "Unlicense",
+  "keywords": [ "aes" ],
+  "src": [ "aes.hpp", "aes.h", "aes.c" ]
+}
